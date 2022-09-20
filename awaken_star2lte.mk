@@ -36,6 +36,9 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 TARGET_SUPPORTS_QUICK_TAP := true
 
+##Dolby 
+TARGET_HAVE_SAMSUNG_DAP := true
+
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := awaken_star2lte
 PRODUCT_DEVICE := star2lte
