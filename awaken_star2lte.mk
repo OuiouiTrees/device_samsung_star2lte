@@ -25,7 +25,7 @@ $(call inherit-product, device/samsung/star2lte/device.mk)
 
 ## Inherit some common Awaken stuff
 $(call inherit-product, vendor/awaken/config/common_full_phone.mk)
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 1440
 
 ## Gapps
 TARGET_GAPPS_ARCH := arm64
